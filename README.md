@@ -22,6 +22,6 @@ Bu talimatlar, projeyi yerel bilgisayarınızda çalıştırmak için gerekli ad
 - **HTML, CSS** ile temel yapı
 - **Bootstrap kullanıldı
 
-# Tanıtım videosu için tıklayınız
+# Tanıtım videosu
 https://github.com/user-attachments/assets/d8878a53-eb56-4a77-adbc-4f2498f81281
 
