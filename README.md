@@ -1,6 +1,6 @@
 # PAYLAŞTIKÇA - Fotoğraf Galeri Sitesi
 
-Bu proje, kullanıcıların bilgi paylaşarak etkileşimde bulunabilecekleri bir web platformunun temel tasarımını sunmaktadır. Bu platform, çeşitli bölümleriyle bilgi paylaşımını teşvik eder ve kullanıcıları bir araya getirir.
+
 
 ## Özellikler
 
